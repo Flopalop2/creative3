@@ -261,7 +261,7 @@ class Movies extends React.Component {
             
             <p>This product uses the TMDB API but is not endorsed or certified by TMDB.</p>
           
-            <a href="https://github.com/Flopalop2/movieratings"  id="footerLink">
+            <a href="https://github.com/Flopalop2/creative3"  id="footerLink">
               <img src={myLogo} id="logo"/>
               <div id="footerLinkText">Github</div>
             </a>
